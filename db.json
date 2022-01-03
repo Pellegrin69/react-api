@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Toto",
+      "lastname": "Bourdon",
+      "email": "test@test.com",
+      "password": "$2a$10$DWFpdWXe/aH.wU86./kXD.jNDplZCtBNwAFozftHVFAl6n842ODWW",
+      "age": 53
+    },
+    {
+      "id": 2,
+      "email": "test@hotmail.fr",
+      "password": "$2a$10$s8.X/aMTq9ZtN7u54bzNGeKyxmyPtRcvSP7dSjmm7tRX5vaKDaaOC",
+      "firstname": "John",
+      "lastname": "Doe",
+      "age": 35
+    },
+    {
+      "id": 3,
+      "email": "pellegrinpierre@hotmail.fr",
+      "password": "$2a$10$uT2EDzk5fH7G0sMLb8WoYu0EvhQC/hRDPdumBrHMNQECTki0ybjLi",
+      "firstname": "Pierre",
+      "lastname": "Pellegrin",
+      "age": 20
+    }
+  ],
+  "clothes": [
+    {
+      "id": 1,
+      "brand": "Nike",
+      "size": "M",
+      "type": "hoodie",
+      "color": "black"
+    },
+    {
+      "id": 2,
+      "brand": "Adidas",
+      "size": "M",
+      "type": "pants",
+      "color": "blue"
+    },
+    {
+      "brand": "New Balance",
+      "size": "42.5",
+      "type": "shoes",
+      "color": "green",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "brand": "The North Face",
+      "size": "L",
+      "type": "parka",
+      "color": "red"
+    }
+  ],
+  "messages": [
+    {
+      "subject": "blabla",
+      "body": "OH YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
+      "id": 1
+    }
+  ]
+}
