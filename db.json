@@ -1,45 +1,181 @@
 {
   "users": [
     {
-      "id": 1,
-      "firstname": "Toto",
-      "lastname": "Bourdon",
-      "email": "test@test.com",
-      "password": "$2a$10$DWFpdWXe/aH.wU86./kXD.jNDplZCtBNwAFozftHVFAl6n842ODWW",
-      "age": 53
+      "email": "test1@hotmail.fr",
+      "password": "$2a$10$ITdcmzZv4QKyCuVTnBDjIev6Kz8jcIVIfzJv8rKQJQe3U7X36Wi0C",
+      "username": "John",
+      "id": 4
     },
     {
-      "id": 2,
-      "email": "test@hotmail.fr",
-      "password": "$2a$10$s8.X/aMTq9ZtN7u54bzNGeKyxmyPtRcvSP7dSjmm7tRX5vaKDaaOC",
-      "firstname": "John",
-      "lastname": "Doe",
-      "age": 35
+      "email": "pellegrinpierre69510@gmail.com",
+      "password": "$2a$10$rIg90p4tLkQZA4N6V6/NmO5fAcWijhhvGdJx4JKw.ev9yeshvMJhG",
+      "username": "pierre",
+      "id": 5
     },
     {
-      "id": 3,
-      "email": "pellegrinpierre@hotmail.fr",
-      "password": "$2a$10$uT2EDzk5fH7G0sMLb8WoYu0EvhQC/hRDPdumBrHMNQECTki0ybjLi",
-      "firstname": "Pierre",
-      "lastname": "Pellegrin",
-      "age": 20
+      "email": "david@david.david",
+      "password": "$2a$10$w6CYvHtPt1vTFOYEN3GqZu0e2ELprfwWvBL3aczB9gokQ/qRrLJm2",
+      "username": "david",
+      "id": 6
+    },
+    {
+      "email": "daniel@daniel",
+      "password": "$2a$10$cUMeYFkMG7f.EwTzEbKJ9uPUN52FxhupTTHIADmXSK4tQRwwzeJwO",
+      "username": "daniel",
+      "id": 7
+    },
+    {
+      "email": "daniel@fuck",
+      "password": "$2a$10$KCSY/3vl6kpHY2aCAAqn5OpuUss4uWa3ku3Dav72fi/FHez1M/VPm",
+      "username": "daniel",
+      "id": 8
+    },
+    {
+      "email": "daniel@test",
+      "password": "$2a$10$UlML0qWo26TEMI9fylTXpu2jZWV35DHYHcYVBhzbdHX71QeQ05P.O",
+      "username": "daniel",
+      "id": 9
+    },
+    {
+      "email": "daniel@yes",
+      "password": "$2a$10$6wmFHdKa6sGf8ecLJrgnZekbAk5XHCRxmPPtazdX2n2Vec6fUjzym",
+      "username": "daniel",
+      "id": 10
+    },
+    {
+      "email": "daniel@no",
+      "password": "$2a$10$jwU9OWZllNOpdxzPRgtPlOcr3.S1btAy6Dahp2pq840gf4.KT8wKK",
+      "username": "daniel",
+      "id": 11
+    },
+    {
+      "email": "daniel@whynot",
+      "password": "$2a$10$VzCGvedvIH5/R1ERBgRHouXpRkiJLlavtdb/NJC9k2k9ghL6o3luW",
+      "username": "daniel",
+      "id": 12
+    },
+    {
+      "email": "daniel@hmmhmm",
+      "password": "$2a$10$.vjlyBz1sB..dW7iW0TZPuOsPUMTGCwwt3wThsoLxyvngEYcrNyvW",
+      "username": "daniel",
+      "id": 13
+    },
+    {
+      "email": "daniel@json",
+      "password": "$2a$10$7PHwFaGknj9VvsM63yqbU.00DhshpJrdC4bSe0xDIa.s5OJRYee5O",
+      "username": "daniel",
+      "id": 14
+    },
+    {
+      "email": "daniel@hui",
+      "password": "$2a$10$Ocoi1ZebUnFojZ990I7ezOWzf73tOCH4.GmJBFGa44mMGtaOJ/gsC",
+      "username": "daniel",
+      "id": 15
+    },
+    {
+      "email": "crenshaw@errr",
+      "password": "$2a$10$NjOFfwvSeWNnXimo9W067uwVzhaIP5sj6H4lyiGpuALwbMYMPOJZ2",
+      "username": "Pierre",
+      "id": 16
+    },
+    {
+      "email": "oizjefo@zoecjzo",
+      "password": "$2a$10$gAxKhRRITknNlUMD63oE9uRGL5iZQbynbk0gQwmWTfzO0QN/ZiflS",
+      "username": "oziejfoji",
+      "id": 17
+    },
+    {
+      "email": "oejicfeoz@iojef",
+      "password": "$2a$10$jc/sbFITuLtpuBECqyUEc.Mp22KX.Ngdmt.eqjD7XEvQJE4dQ945.",
+      "username": "kzejfz",
+      "id": 18
+    },
+    {
+      "email": "oejicfeoz@iojef",
+      "password": "$2a$10$iWSRA5aHeo2mVXYk517q0.KFYxCw4wglOma3Ukrzwg5xvwEUqLj8S",
+      "username": "kzejfz",
+      "id": 19
+    },
+    {
+      "email": "test3@hotmail.fr",
+      "password": "$2a$10$RZ9c.XN2KIMdXJuMtRdshOIMWVp7FXY8amkq.jHZjpdYykmIdccrq",
+      "username": "John",
+      "id": 20
+    },
+    {
+      "email": "please@yes",
+      "password": "$2a$10$Xp1cCuD.Mgcv/6iD9Tqb4ecHSQ/JG5eGLq1ToY/rdkvHlekCL3wX2",
+      "username": "test",
+      "id": 21
+    },
+    {
+      "email": "ieurf@jznefi",
+      "password": "$2a$10$tkC7gY1d34oSgZSlqa6lOOKyJgIDLdcNn4MPjdv7QdPv7wR4/F3yK",
+      "username": "ieufcuiz",
+      "id": 22
+    },
+    {
+      "email": "ieurf@jznefi",
+      "password": "$2a$10$EKD1Uezb8pibhKJAH9sW9OrDHlZUjLe2GbV2btWsap6nDYH15XqMi",
+      "username": "ieufcuiz",
+      "id": 23
+    },
+    {
+      "email": "test@please",
+      "password": "$2a$10$OYi21m3mIlZvqvSD4UvTHOCzKM/TTxeOxhQuNt54rrxHiT0SUXdxi",
+      "username": "test",
+      "id": 24
+    },
+    {
+      "email": "test@oui",
+      "password": "$2a$10$/WTKrmIuw9VfHHl7MYi9LOWYJpQpVURdcy3BTswhWQgD5ZP4kUOyi",
+      "username": "test",
+      "id": 25
+    },
+    {
+      "email": "mercimonsieur@alde",
+      "password": "$2a$10$Ge0FdoaII9kjFxAxFZeEueEhIFubXbOpX6mgIQjDnlSbiSbTUeuw.",
+      "username": "test",
+      "id": 26
+    },
+    {
+      "email": "oue@oeu",
+      "password": "$2a$10$ATjtEzHaKmcI2qIgPcCwfuJzSPdNNMvf3S//.xij8rmm3mxpmorbq",
+      "username": "update",
+      "id": 27
+    },
+    {
+      "email": "pellegrinpierre@gmail.com",
+      "password": "$2a$10$Le7oXSUiHjceucBJWn/Cj..XEQKyXL4lpGMdJGt7AxyE0iHLrhngO",
+      "username": "DoubleP3",
+      "id": 28
+    },
+    {
+      "email": "Pierre@pierre",
+      "password": "$2a$10$kEuXlZCcQUEZBIXQO3Tv3uHvFmaHsF6IjMYj3YLSzTQJnsqENfSky",
+      "username": "pierre",
+      "id": 29
+    },
+    {
+      "email": "test@yayaya",
+      "password": "$2a$10$PWKEeezvEZ2d53KHvcjI9ue.AP6ScWIoY6WppLbOy6hRhV3x3Rt1O",
+      "username": "test",
+      "id": 30
+    },
+    {
+      "email": "abc@abc",
+      "password": "$2a$10$MxMt14VtYW3VMiVC6esS7OWPjhhjNvAfpKZ7.p3.jkD0xftbGN5bK",
+      "username": "abc",
+      "id": 31
+    },
+    {
+      "email": "techie6@email.com",
+      "password": "$2a$10$b4dERNSn5Lw72/dR8o5IUupdqkia8mw0U0neWDiWM0jRoE6d2TN6e",
+      "username": "Techiiiiiie",
+      "id": 35
     }
   ],
   "clothes": [
-    {
-      "id": 1,
-      "brand": "Nike",
-      "size": "M",
-      "type": "hoodie",
-      "color": "black"
-    },
-    {
-      "id": 2,
-      "brand": "Adidas",
-      "size": "M",
-      "type": "pants",
-      "color": "blue"
-    },
     {
       "brand": "New Balance",
       "size": "42.5",
@@ -53,6 +189,13 @@
       "size": "L",
       "type": "parka",
       "color": "red"
+    },
+    {
+      "brand": "New Balance",
+      "size": "42.5",
+      "type": "shoes",
+      "color": "green",
+      "id": 5
     }
   ],
   "messages": [
