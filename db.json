@@ -163,9 +163,8 @@
       "id": 30
     },
     {
-      "email": "abc@abc",
-      "password": "$2a$10$MxMt14VtYW3VMiVC6esS7OWPjhhjNvAfpKZ7.p3.jkD0xftbGN5bK",
-      "username": "abc",
+      "email": "ui@ui",
+      "password": "$2a$10$DZHUPjpWokiNXjU3jn2tNeUJiy3IxHRjOV7ZmS9Erycxsj8eK4WAG",
       "id": 31
     },
     {
@@ -173,18 +172,114 @@
       "password": "$2a$10$b4dERNSn5Lw72/dR8o5IUupdqkia8mw0U0neWDiWM0jRoE6d2TN6e",
       "username": "Techiiiiiie",
       "id": 35
+    },
+    {
+      "email": "abc@abc",
+      "password": "$2a$10$V9Eg2POhIEefJQNiM5aJM.96lOrUIqmrFvVABPK8yO4uJylMBpDH.",
+      "username": "test",
+      "id": 36
+    },
+    {
+      "email": "pedro@pedroclemdp",
+      "password": "$2a$10$gSWtE8zqRCP89brg5LVf3eMuAdC9FXKSGqpHTBIBFoRBDd9iFQjOK",
+      "username": "Pedro",
+      "id": 37
     }
   ],
   "clothes": [
+    {
+      "id": 1,
+      "brand": "Bershka ",
+      "size": "44",
+      "type": "Shoes ",
+      "color": "Multicolor White"
+    },
+    {
+      "brand": "Black Squad",
+      "size": "XXL",
+      "type": "Hoodie",
+      "color": "Black Multicolour ",
+      "id": 2
+    },
+    {
+      "brand": "Adidas ",
+      "size": "45",
+      "type": "James Harden 3",
+      "color": "Purple Light",
+      "id": 3
+    },
+    {
+      "brand": "Adidas ",
+      "size": "L",
+      "type": "Top",
+      "color": "Green",
+      "id": 4
+    },
+    {
+      "brand": "Jordan",
+      "size": "XL",
+      "type": "Jogging",
+      "color": "Midnight Blue ",
+      "id": 5
+    },
+    {
+      "brand": "Zara",
+      "size": "L",
+      "type": "Pant",
+      "color": "Blue",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "brand": "Aape ",
+      "size": "XL",
+      "type": "Sweat ",
+      "color": "Camo "
+    },
+    {
+      "brand": "Dior",
+      "size": "Unisize",
+      "type": "Chain ",
+      "color": "Gold",
+      "id": 8
+    },
+    {
+      "brand": "Primark ",
+      "size": "M",
+      "type": "Crop top ",
+      "color": "Beige",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "brand": "New Yorker ",
+      "size": "44",
+      "type": "Shoes",
+      "color": "Orange "
+    },
+    {
+      "id": 11,
+      "brand": "Bape ",
+      "size": "L",
+      "type": "Cargo Pant",
+      "color": "Green Forest"
+    },
+    {
+      "brand": "Lacoste ",
+      "size": "L",
+      "type": "Polo ",
+      "color": "Red ",
+      "id": 12
+    },
     {
       "brand": "New Balance",
       "size": "42.5",
       "type": "shoes",
       "color": "green",
-      "id": 3
+      "id": 13
     },
     {
-      "id": 4,
+      "id": 14,
       "brand": "The North Face",
       "size": "L",
       "type": "parka",
@@ -195,14 +290,7 @@
       "size": "42.5",
       "type": "shoes",
       "color": "green",
-      "id": 5
-    }
-  ],
-  "messages": [
-    {
-      "subject": "blabla",
-      "body": "OH YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
-      "id": 1
+      "id": 15
     }
   ]
 }
